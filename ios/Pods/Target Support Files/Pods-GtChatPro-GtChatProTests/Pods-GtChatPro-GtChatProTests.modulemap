@@ -1,0 +1,6 @@
+module Pods_GtChatPro_GtChatProTests {
+  umbrella header "Pods-GtChatPro-GtChatProTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,85 @@
+{
+  "buildFiles": [
+    "/Users/apple/Desktop/UsmanData/gtchatpro-react/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/apple/Desktop/UsmanData/gtchatpro-react/node_modules/react-native-image-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/apple/Desktop/UsmanData/gtchatpro-react/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Users/apple/Desktop/UsmanData/gtchatpro-react/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Users/apple/Desktop/UsmanData/gtchatpro-react/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
+    "/Users/apple/Desktop/UsmanData/gtchatpro-react/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/apple/Desktop/UsmanData/gtchatpro-react/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/apple/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/apple/Desktop/UsmanData/gtchatpro-react/android/app/.cxx/Debug/1p5u1d94/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/apple/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/apple/Desktop/UsmanData/gtchatpro-react/android/app/.cxx/Debug/1p5u1d94/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "artifactName": "react_codegen_RNVectorIconsSpec",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "artifactName": "react_codegen_safeareacontext",
+      "abi": "x86_64",
+      "output": "/Users/apple/Desktop/UsmanData/gtchatpro-react/android/app/build/intermediates/cxx/Debug/1p5u1d94/obj/x86_64/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Users/apple/.gradle/caches/8.10.2/transforms/bcb1b93ec3cee8ea5834c7c5ad119044/transformed/jetified-fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
+        "/Users/apple/.gradle/caches/8.10.2/transforms/c35983e025c66419267514d0c7323f66/transformed/jetified-react-android-0.76.1-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/apple/.gradle/caches/8.10.2/transforms/c35983e025c66419267514d0c7323f66/transformed/jetified-react-android-0.76.1-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
+      ]
+    },
+    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
+      "artifactName": "react_codegen_rngesturehandler_codegen",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "react_codegen_RNImagePickerSpec::@f66ee9a2efecfb28bee4": {
+      "artifactName": "react_codegen_RNImagePickerSpec",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "artifactName": "react_codegen_rnscreens",
+      "abi": "x86_64",
+      "output": "/Users/apple/Desktop/UsmanData/gtchatpro-react/android/app/build/intermediates/cxx/Debug/1p5u1d94/obj/x86_64/libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "/Users/apple/.gradle/caches/8.10.2/transforms/c35983e025c66419267514d0c7323f66/transformed/jetified-react-android-0.76.1-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so",
+        "/Users/apple/.gradle/caches/8.10.2/transforms/c35983e025c66419267514d0c7323f66/transformed/jetified-react-android-0.76.1-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/apple/.gradle/caches/8.10.2/transforms/bcb1b93ec3cee8ea5834c7c5ad119044/transformed/jetified-fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so"
+      ]
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86_64",
+      "output": "/Users/apple/Desktop/UsmanData/gtchatpro-react/android/app/build/intermediates/cxx/Debug/1p5u1d94/obj/x86_64/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/apple/Desktop/UsmanData/gtchatpro-react/android/app/build/intermediates/cxx/Debug/1p5u1d94/obj/x86_64/libreact_codegen_safeareacontext.so",
+        "/Users/apple/Desktop/UsmanData/gtchatpro-react/android/app/build/intermediates/cxx/Debug/1p5u1d94/obj/x86_64/libreact_codegen_rnscreens.so",
+        "/Users/apple/Desktop/UsmanData/gtchatpro-react/android/app/build/intermediates/cxx/Debug/1p5u1d94/obj/x86_64/libreact_codegen_rnsvg.so",
+        "/Users/apple/.gradle/caches/8.10.2/transforms/bcb1b93ec3cee8ea5834c7c5ad119044/transformed/jetified-fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
+        "/Users/apple/.gradle/caches/8.10.2/transforms/c35983e025c66419267514d0c7323f66/transformed/jetified-react-android-0.76.1-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/apple/.gradle/caches/8.10.2/transforms/c35983e025c66419267514d0c7323f66/transformed/jetified-react-android-0.76.1-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
+      ]
+    },
+    "react_codegen_rnsvg::@4f40eb209d0c0b4a3b65": {
+      "artifactName": "react_codegen_rnsvg",
+      "abi": "x86_64",
+      "output": "/Users/apple/Desktop/UsmanData/gtchatpro-react/android/app/build/intermediates/cxx/Debug/1p5u1d94/obj/x86_64/libreact_codegen_rnsvg.so",
+      "runtimeFiles": [
+        "/Users/apple/.gradle/caches/8.10.2/transforms/c35983e025c66419267514d0c7323f66/transformed/jetified-react-android-0.76.1-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so",
+        "/Users/apple/.gradle/caches/8.10.2/transforms/c35983e025c66419267514d0c7323f66/transformed/jetified-react-android-0.76.1-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/apple/.gradle/caches/8.10.2/transforms/bcb1b93ec3cee8ea5834c7c5ad119044/transformed/jetified-fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so"
+      ]
+    }
+  }
+}

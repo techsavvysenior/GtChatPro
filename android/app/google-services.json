@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "128496133213",
+    "project_id": "gtchatpro-15704",
+    "storage_bucket": "gtchatpro-15704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128496133213:android:98b6d21f3903e6c41f99b4",
+        "android_client_info": {
+          "package_name": "com.gtChatPro.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128496133213-4uhiff65jdteeiail63iqsgo6t3m40ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gtChatPro.app",
+            "certificate_hash": "43c50a899de459a825255150e3ae6e736a345ef0"
+          }
+        },
+        {
+          "client_id": "128496133213-9cet12tns9ua57jcjshvvd8qv8f1k8eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gtChatPro.app",
+            "certificate_hash": "2d5f6893e88a8c4f15cbb19fad51c7488caed02e"
+          }
+        },
+        {
+          "client_id": "128496133213-kptir0beljoj357fboh61fugh4cchek4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gtChatPro.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "128496133213-s4n7kpjeml15cfjbk6jsis7b6duckgok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gtChatPro.app",
+            "certificate_hash": "ba536f98d653357936f17026623e07a9760791fe"
+          }
+        },
+        {
+          "client_id": "128496133213-29qiuun9dh06s5rb8mt828j1g424llpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNi2f0_8Cxwo7U-qZzTS8zSc-TcgmusSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128496133213-29qiuun9dh06s5rb8mt828j1g424llpe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128496133213-kbu61qs0ca3ovr9ehs7r8hdcqqscumn1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gtChatPro.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
